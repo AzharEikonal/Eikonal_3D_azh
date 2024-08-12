@@ -1,0 +1,1 @@
+g++ -g -std=c++11 -I /home/azhar/eigen-3.4.0/ /home/azhar/FuetalC++3D/3d_cpu.cpp
